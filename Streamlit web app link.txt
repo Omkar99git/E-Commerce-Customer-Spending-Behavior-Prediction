@@ -1,0 +1,1 @@
+https://e-commerce-customer-spending-behavior-prediction-a46xqmrzvpfyq.streamlit.app/ - Streamlit web app address for Project 1
